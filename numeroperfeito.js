@@ -1,6 +1,6 @@
 function numeroperfeito(numero){
-    if(){
-        
-    }
+    for
+
+    
 
 }
