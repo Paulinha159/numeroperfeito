@@ -1,0 +1,6 @@
+function numeroperfeito(numero){
+    for
+
+    
+
+}
